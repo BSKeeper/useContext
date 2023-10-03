@@ -1,0 +1,23 @@
+.Label{
+    color: var(--Color2);
+}
+
+.DatosIniciales{
+    color: var(--Color3);
+}
+
+.InputText{
+    background-color: var(--Color4);
+    color: var(--Color6);
+}
+
+.Submit{
+    margin-top: 20px;
+    background-color: var(--Color5);
+    color: var(--Color3);
+}
+
+.Submit:hover{
+    background-color: var(--Color4);
+    cursor: pointer;
+}
